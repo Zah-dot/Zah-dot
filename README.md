@@ -1,16 +1,17 @@
-## Hi there 👋
+### 👋 Hi, I'm Zaid
 
-<!--
-**Zah-dot/Zah-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final year B.Tech student in Computer and System Engineering  
+🔍 Interested in Machine Learning, NLP, Data Science & Smart Applications  
+🛠️ Learning Flask, FastAPI, SQL, and LLM integration  
+🤝 Looking to collaborate on ML/NLP projects and data-driven applications  
+📬 Reach me at: [hzaid877@gmail.com](mailto:hzaid877@gmail.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+
+![Zaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zah-dot&show_icons=true&theme=radical&hide_title=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zah-dot&layout=compact&theme=radical)
+
+---
