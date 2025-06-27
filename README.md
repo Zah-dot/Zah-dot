@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
-  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
+  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/XBjyLCTzE6Xn9sI1PS/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/BaEE3QjK0DFo/giphy.gif" width="100">
 </p>
 
 # Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> I'm Zaid
