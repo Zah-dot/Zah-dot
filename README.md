@@ -8,7 +8,7 @@
 
 # Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> I'm Zaid
 
-🎓 Final year B.Tech student in Computer and System Engineering  
+🎓 Final year B.Tech student in Computer Science and System Engineering  
 🔍 Exploring Machine Learning, NLP, LLMs & Computer Vision  
 🛠️ Learning Flask, FastAPI, SQL, and building scalable ML pipelines  
 🤝 Open to collaborating on real-world data-driven projects  
